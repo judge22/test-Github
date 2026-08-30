@@ -4,3 +4,4 @@ let y = 7;
 console.log(x + y);
 
 console.log("Hello from original acvount git hub"); 
+console.log("Dumb"); 
