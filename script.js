@@ -7,4 +7,5 @@ console.log("Hello from original acvount git hub");
 console.log("Dumb"); 
 var int = 6; 
 let xx = 5; 
-console.log(int + x) ; 
+ console.log(int + x) ; 
+ console.log("lol2")
