@@ -11,3 +11,5 @@ let xx = 5;
  console.log("lol2")
  console.log("Holabola")
 console.log("discount 2");
+ console.log("discount"); 
+ console.log("disc2");
