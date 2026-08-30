@@ -15,3 +15,4 @@ console.log("discount 2");
  console.log("disc2");
 git23
 console.log("helllllllp"); 
+console.log("common common"); 
