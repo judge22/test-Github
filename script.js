@@ -10,4 +10,4 @@ let xx = 5;
  console.log(int + x) ; 
  console.log("lol2")
  console.log("Holabola")
- dd
+ console.log("discount"); 
