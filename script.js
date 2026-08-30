@@ -16,3 +16,4 @@ console.log("discount 2");
 git23
 console.log("helllllllp"); 
 console.log("common common"); 
+console.log("solution by help"); 
