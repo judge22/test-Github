@@ -5,3 +5,6 @@ console.log("test conflict");
 console.log("fiald");
 console.log("Gedom assem");
 console.log("New version");
+
+console.log("this message from Asemo Git 1");
+console.log("hola-bolab");

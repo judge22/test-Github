@@ -16,5 +16,6 @@ console.log("discount 2");
  console.log("Hambozo"); 
 git23
 console.log("helllllllp"); 
+console.log("Hala-bahala Asemo2");
 console.log("common common"); 
 console.log("solution by help + 2"); 
