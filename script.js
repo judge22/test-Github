@@ -13,6 +13,7 @@ let xx = 5;
 console.log("discount 2");
  console.log("discount"); 
  console.log("disc2");
+ console.log("Hambozo"); 
 git23
 console.log("helllllllp"); 
 console.log("common common"); 
